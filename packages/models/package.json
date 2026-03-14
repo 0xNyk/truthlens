@@ -1,0 +1,8 @@
+{
+  "name": "@truthlens/models",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "ONNX model files and conversion scripts for TruthLens",
+  "scripts": {}
+}
